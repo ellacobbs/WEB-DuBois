@@ -4,7 +4,7 @@ just using pen and paper as they are so precise! It was rewarding to see he was 
 to comprehend and yet still visualually appealing. The script starts by importing the data and then moves into creating the graphs. 
 
 # Packages
-The packages used in the script were pandas, numpy, matplotlib.pyplot and seaborn
+The packages used in the script were pandas, numpy, matplotlib.pyplot and seaborn.
 To ensure that the code will run, these packages need to be installed:
 - pandas from PyPi
 - Numpy already comes with Python
